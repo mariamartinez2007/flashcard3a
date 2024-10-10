@@ -11,12 +11,12 @@
 <section id="container">
     <!--<article class="cartao">
 <div clas="cartao_conteudo">
-    <h3>programaçao</h3>
+    <h3>programação</h3>
     <div class="cartao_conteudo_pergunta">
         <p>o que e JavaScript?</p>
     </div>
     <div class="cartao_conteudo_resposta">
-        <p>o JavaScript e uma linguagem de programaçao</p>
+        <p>o JavaScript e uma linguagem de programação</p>
     </div>
 </div>
 </article> -->
